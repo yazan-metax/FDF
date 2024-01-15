@@ -20,7 +20,7 @@ Key aspects of this project include:
 
 This project is an exploration of the intersection between data and visual representation, offering a unique perspective into the world of computer graphics and data visualization. It's an ideal project for those interested in graphics programming, data interpretation, and 3D modeling.
 
-## file structure:
+## 📂file structure:
 
 ### .c files 
 - where all our c functions will be written in
@@ -42,4 +42,5 @@ in summary the makefile is going to do:
   <img src="https://github.com/yazan-metax/FDF/blob/main/image/Screenshot%202024-01-15%20at%2002.27.32.png">
   <img src="https://github.com/yazan-metax/FDF/blob/main/image/art.png">
   <img src="https://github.com/yazan-metax/FDF/blob/main/image/pylone.png">
+  <img src="https://github.com/yazan-metax/FDF/blob/main/image/art2.png">
 </p>
