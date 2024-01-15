@@ -39,5 +39,5 @@ in summary the makefile is going to do:
 </h1>
        
 <p align="center">
-  <img src="https://github.com/yazan-metax/FDF/blob/main/image/Screen%2520Recording%25202024-01-15%2520at%252002.11.59%25202.gif">
+  <img src="https://github.com/yazan-metax/FDF/blob/main/image/Screenshot%202024-01-15%20at%2002.27.32.png">
 </p>
