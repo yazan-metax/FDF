@@ -46,3 +46,35 @@ in summary the makefile is going to do:
   <img src="https://github.com/yazan-metax/FDF/blob/main/image/art2.png">
   <img src="https://github.com/yazan-metax/FDF/blob/main/image/fract.png">
 </p>
+
+# usage⚙️:
+
+### requirements:
+- GCC Compiler: This is essential for compiling the C code. GCC is a widely used compiler that turns the source code into an executable program.
+- C Libraries: These are found in the header files of the project. They provide necessary functions and definitions used throughout the program. Ensure that all required libraries are accessible and included as per the project's header files.
+- Operating System Compatibility: Ensure the program is compatible with your operating system, whether it's a variant of Windows, macOS, or Linux.
+- MiniLibX: This graphical library is necessary for the FDF program's graphical output. It must be properly installed and configured.
+- Memory and Processor Specifications: Adequate RAM and CPU power are required for smooth execution, especially for rendering complex graphics.
+
+### Instructions:
+
+- installation: First, ensure that GCC, the necessary C libraries, and MiniLibX are installed on your system. Download the FDF program from its repository.
+- Compilation: Use the Makefile to compile the program. In the terminal, navigate to the program directory and run the command make.
+- Running the Program: After compilation, you can start the program by typing `./fdf [path to the map file]` in the terminal. Ensure you have a valid map file in the specified format.
+- Interacting with the Program: Once the program is running, you can interact with the graphical interface. This include zooming, rotating, or adjusting the view of your 3D landscape.
+- Closing the Program: Exit the program by closing the window or using an exit command.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
