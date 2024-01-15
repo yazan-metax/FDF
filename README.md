@@ -13,7 +13,7 @@ Key aspects of this project include:
 `3D Graphic Programming:` Discovering the basics of graphic programming, including the manipulation and visualization of spatial data points.
 
 `MiniLibX Usage:` Utilizing the MiniLibX library, developed internally, for creating basic graphical interfaces, pixel manipulation, and event handling,
-[`click`](https://github.com/yazan-metax/minilibX)
+[`click`](https://github.com/yazan-metax/minilibX) to know more about Minilibx
 
 `Data Interpretation:` Transforming raw data from files into meaningful visual representations, providing insights into various landscapes.
 
