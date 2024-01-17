@@ -21,6 +21,9 @@ Key aspects of this project include:
 
 This project is an exploration of the intersection between data and visual representation, offering a unique perspective into the world of computer graphics and data visualization. It's an ideal project for those interested in graphics programming, data interpretation, and 3D modeling.
 
+# note 🚨
+i made a little program that can help you get used to use minilibx libray and to the algorithms involved for graphical programming so I highly advise you before attempting to make 
+FDF to have a look at it and spend some time to understand  and useing it, find the link here [`draw_with_minilibx`](https://github.com/yazan-metax/draw_with_minilibx/tree/main)
 ## 📂file structure:
 
 ### .c files 
