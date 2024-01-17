@@ -22,8 +22,13 @@ Key aspects of this project include:
 This project is an exploration of the intersection between data and visual representation, offering a unique perspective into the world of computer graphics and data visualization. It's an ideal project for those interested in graphics programming, data interpretation, and 3D modeling.
 
 # note 🚨
-i made a little program that can help you get used to use minilibx libray and to the algorithms involved for graphical programming so I highly advise you before attempting to make 
-FDF to have a look at it and spend some time to understand  and useing it, find the link here [`draw_with_minilibx`](https://github.com/yazan-metax/draw_with_minilibx/tree/main)
+I've developed a small program designed to familiarize you with the MiniLibX library and the underlying algorithms essential for graphical programming. This program is an excellent starting point for beginners and serves as a foundational step towards more complex projects like FDF (Wireframe Model).
+
+**I strongly recommend** spending some time with this program to grasp the basics of MiniLibX and the principles of graphical programming. It's a valuable resource for understanding how to effectively utilize the library in your projects.
+
+- find the link here [`draw_with_minilibx`](https://github.com/yazan-metax/draw_with_minilibx/tree/main)
+
+By exploring and experimenting with this program, you'll gain the skills and confidence needed to tackle more advanced graphical programming tasks.
 ## 📂file structure:
 
 ### .c files 
